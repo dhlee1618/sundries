@@ -1,6 +1,4 @@
-
-# Created by https://www.gitignore.io/api/osx,java,eclipse,windows,visualstudiocode
-# Edit at https://www.gitignore.io/?templates=osx,java,eclipse,windows,visualstudiocode
+# osx, windows, java, eclipse, visualstudiocode
 
 ### Eclipse ###
 
@@ -160,5 +158,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# osx, windows, java, eclipse, visualstudiocode
