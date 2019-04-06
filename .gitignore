@@ -81,6 +81,7 @@ local.properties
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/*.xml
 
 # Generated files
 .idea/**/contentModel.xml
@@ -207,3 +208,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/osx,windows,eclipse,intellij
+
+*.iml
+**/*.iml
